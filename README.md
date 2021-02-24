@@ -5,3 +5,5 @@ General purpose shell scripts
 * 0x0sc: Screenshot uploader script, also to [0x0.st](https://0x0.st)
 * colors: Prints term color table, good for testing themes (requires bash)
 * uf-f: ufetch for Fedora
+
+These are best to add to your PATH, just so they're there as commands
